@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/harshvar36"><img src="https://img.shields.io/github/followers/harshvar36?label=Follow%20Me&style=social" alt="GitHub Follow" /></a>
-  <a href="[https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/harshvardhan-singh-508a18319/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:your-harshva36@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/harshvardhan-singh-508a18319/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:harshva36@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email" /></a>
 </p>
 
 ---
@@ -99,8 +99,8 @@
 
 ### 🌐 Let’s Connect  
 <p align="center">
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/harshvardhan-singh-508a18319/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your-harshva36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harshvardhan-singh-508a18319/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:harshva36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/harshvar36"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
